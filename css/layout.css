@@ -37,9 +37,17 @@
 .col-3 {
 }
 
+/* Social */
+
 #social {
   display: fixed;
   top: 200px;
   right: 10px;
   z-index: 1;
+}
+
+/* Styling */
+
+body {
+  background-image: url('images/wood.jpg')
 }
