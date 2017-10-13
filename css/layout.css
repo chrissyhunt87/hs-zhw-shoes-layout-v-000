@@ -31,8 +31,15 @@
 
 .col-2 {
   display: block;
-  
+
 }
 
 .col-3 {
+}
+
+#social {
+  display: fixed;
+  top: 200px;
+  right: 10px;
+  z-index: 1;
 }
